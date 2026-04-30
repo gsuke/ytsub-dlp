@@ -10,6 +10,8 @@ YouTubeからテキスト部分のみの字幕をダウンロードする。
 ## Install
 
 ```sh
+git clone https://github.com/gsuke/ytsub-dlp
+cd ytsub-dlp
 ln -snfv "$(realpath ytsub-dlp)" "$HOME/.local/bin/ytsub-dlp"
 ```
 
