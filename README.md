@@ -12,7 +12,7 @@ YouTubeからテキスト部分のみの字幕をダウンロードする。
 ```sh
 git clone https://github.com/gsuke/ytsub-dlp
 cd ytsub-dlp
-ln -snfv "$(realpath ytsub-dlp)" "$HOME/.local/bin/ytsub-dlp"
+ln -snfv "$(realpath ytsub-dlp.sh)" "$HOME/.local/bin/ytsub-dlp"
 ```
 
 ## Usage
